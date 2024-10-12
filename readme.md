@@ -10,7 +10,6 @@ type the ![#f03c15] localhost + path of ur main folder project `#f03c15` ( where
 
 NB: Do not forget to import the sql file into mysql (phpmyadmin) and to change the user and password of mysql in  ![#f03c15]  config\constants.php `#f03c15`
 
-# A first-level heading
 
 **Admin Login Details**
 
