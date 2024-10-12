@@ -6,9 +6,9 @@ After instalation go xampp app and run apache server and mysql
   ## Third :
 place the project foler in Xampp/htdocs
   ## fourth and last:
-type the  [localhost] + [path of ur main folder project] ( where it contains index.php )
+type the  [localhost]()http://localhost/) + path of ur main folder project ( where it contains index.php )
 
-NB: Do not forget to import the sql file into mysql (phpmyadmin) and to change the user and password of mysql in `#0969DA` config\constants.php 
+NB: Do not forget to import the sql file into mysql (phpmyadmin) and to change the user and password of mysql in  config\constants.php 
 
 
 **Admin Login Details**
