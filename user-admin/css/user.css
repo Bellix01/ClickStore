@@ -1,0 +1,161 @@
+
+ #signup{
+    float:left;
+    width:50%;
+    
+   }
+   #signup-st,#login-st{
+    background-color:#22313F;
+    margin:50px;
+    border-radius:20px;
+    box-shadow: 3px 3px 4px 0px rgba(194, 221, 232, 0.85);
+    
+   background-color: rgb(19, 131, 196);
+    }
+   #reg{
+    padding-top:10px;
+    padding-left: 30px;
+   }
+   #reg-head,#reg-bottom,#reg-head-fail{
+    width:100%;
+    text-align:center;
+    background-color:rgb(198, 196, 196);
+    font-weight:bold;
+   }
+   .headrg{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    padding-top:12px;
+    padding-bottom:12px;
+    font-size:22px;
+    color:#6C7A89;
+   }
+   .btmrg{
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+    font-size:18px;
+    color:#22313F;
+   }
+   #reg-head-fail{
+    color:#D35400;
+   }
+   #reg-head:hover{
+    color:#3498DB;
+    transition:1s;
+   }
+   #tb-name{
+    float:right;
+    font-size:20px;
+   }
+   #tb-box{
+    height:22px;
+    width:200px;
+   }
+   #st{
+    width:100%;
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:10px;
+   }
+   #st-btn1 {
+    text-align:center;
+    padding:10px 21px 10px 21px;
+    background-color:#3498DB;
+    border:none;
+    color:#fff;
+    cursor:pointer;
+    font-size:20px;
+    font-weight:bold;
+   }
+   #st-btn1:hover{
+    color:#3498DB;
+    background:#fff;
+    transition:0.5s;
+   }
+   #st-btn2 {
+    text-align:center;
+    padding:10px 21px 10px 21px;
+    background-color:#039b1ae6;
+    border:none;
+    color:#fff;
+    cursor:pointer;
+    font-size:20px;
+    font-weight:bold;
+   }
+   #st-btn2:hover{
+    color:#34db5088;
+    background:#fff;
+    transition:0.5s;
+   }
+   #st-btn3 {
+    text-align:center;
+    padding:10px 21px 10px 21px;
+    background-color:#cf1e0e;
+    border:none;
+    color:#fff;
+    cursor:pointer;
+    font-size:20px;
+    font-weight:bold;
+   }
+   #st-btn3:hover{
+    color:#cf1e0e;
+    background:#fff;
+    transition:0.5s;
+   }
+   td.t-1{
+    float:left;
+    width:44%;
+    text-align:right;
+    color:#C5EFF7;
+   }
+   td.t-2{
+    float:right;
+    width:55%;
+   }
+   #lg-1{
+    padding:10px;
+    float:left;
+    width:95%;
+   }
+   .tl-1{
+    float:left;
+    width:40%;
+    padding-right:5%;
+    text-align:center;
+    color:#C5EFF7;
+   }
+   .tl-4{
+    font-size:17px;
+    font-weight:bold;
+    text-align:center;
+    color:#FDE3A7;
+   }
+   #login{
+    float:right;
+    width:50%;
+   }
+   #login-sg{
+    margin-top:11%;
+   }
+
+   #span{
+      margin-left: 1vw;
+      color: red;
+      font-size: 1.2rem;
+   }
+   /* #footer{
+    background-color:#fff;
+    width:100%;
+    height:50px;
+    margin:0px;
+    float:left;
+    border-top:5px solid #3498DB;
+   }
+   #footer p{
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+    color:#3498DB;
+   } */

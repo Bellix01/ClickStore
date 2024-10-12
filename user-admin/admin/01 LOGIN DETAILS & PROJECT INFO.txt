@@ -1,0 +1,5 @@
+
+**Admin Login Details**
+
+Email:     ammine@gmail.com 
+Password:  root              

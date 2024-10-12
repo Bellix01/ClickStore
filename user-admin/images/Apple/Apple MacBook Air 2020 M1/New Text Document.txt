@@ -1,0 +1,1 @@
+Le MacBook Air 2020 avec M1 est l un des premiers avec un SoC Apple Silicon (ARM) M1 annonce le 10 novembre 2020. Il embarque macOS 11 Big Sur et offre un mode compatibilite pouvant executer des applications x86 (Intel). Il est annonce a partir de 11965 MAD.
